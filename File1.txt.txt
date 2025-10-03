@@ -1,1 +1,2 @@
  hello FOS!
+ FOS stands for free and open source.
