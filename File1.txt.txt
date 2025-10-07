@@ -1,2 +1,3 @@
  hello FOS!
  FOS stands for free and open source.
+ FOS is a study of different open source softwares and licenses.
